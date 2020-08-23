@@ -370,4 +370,7 @@
     <string name="config_SmartChargingSuspendValue" translatable="false">1</string>
     <string name="config_SmartChargingResumeValue" translatable="false">0</string>
 
+     <!-- Smart Charing is available for Mi A2 -->
+     <bool name="config_smartChargingAvailable">true</bool>
+
 </resources>
